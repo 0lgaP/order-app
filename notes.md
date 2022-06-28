@@ -32,3 +32,7 @@ bind pre-configures a function for future execution && alows you to pre-configur
 ```sh
 someFunctionHandler.bind(null, item.id)
 ```
+
+# deploy
+video [link](https://www.youtube.com/watch?v=5I37iVCDUTU)
+run npm deploy
